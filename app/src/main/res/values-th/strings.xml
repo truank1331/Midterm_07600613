@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Midterm 07600613</string>
+    <string name="face">ลงชื่อเข้าใช้เฟซบุ๊ค</string>
+    <string name="login_btn">ลงชื่อเข้าใช้</string>
+    <string name="pass_placeholder">รหัสผ่าน</string>
+    <string name="user_placeholder">ชื่อผู้ใช้งาน</string>
+    <string name="add_story">เพิ่มสตอรี่</string>
+    <string name="edit_profile">แก้ไขโปร์ไฟล์</string>
+    <string name="from">จาก</string>
+    <string name="geo">เคญศึกษาที่</string>
+    <string name="live">อาศัยอยู่ที่</string>
+    <string name="more">เพิ่มเติม</string>
+    <string name="view_as">ดูในมุมมองของ</string>
+    <string name="welcome">ยินดีต้อนรับ</string>
+    <string name="fail">ชื่อผู้ใช้งานหรือรหัสผ่านไม่ถูกต้อง</string>
+</resources>

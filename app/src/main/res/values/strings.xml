@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Midterm 07600613</string>
+    <string name="user_placeholder">Username</string>
+    <string name="pass_placeholder">Password</string>
+    <string name="face">Login To Facebook</string>
+    <string name="login_btn">Login</string>
+
+    <string name="add_story">Add to Story</string>
+    <string name="view_as">View As</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="more">More</string>
+
+    <string name="geo">Geo to</string>
+    <string name="live">Lives in</string>
+    <string name="from">From</string>
+
+    <string name="welcome">welcome</string>
+    <string name="fail">Invalid username or password</string>
+
+    <string name="name_t" translatable="false">Promlert Lovichit</string>
+    <string name="name_s" translatable="false">Truank Kanisorn Saeiaw</string>
+
+
+
+
+</resources>
